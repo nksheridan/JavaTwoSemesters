@@ -1,7 +1,7 @@
 import java.util.Scanner;
 //package to help with keyboard input
 
-public class FindCost {
+public class FindBMI {
 
 	public static void main(String[] args) {
 		Scanner keyboard = new Scanner(System.in);
